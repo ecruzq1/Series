@@ -8,7 +8,7 @@ Tabla multiplicar en java
 
 <h3>Link Clases</h3>
 
-[FORMULARIO](https://github.com/ecruzq1/Series/tree/master/src/serie)
+[Clases](https://github.com/ecruzq1/Series/tree/master/src/serie)
 
 
 <h1>AUTOR</h1>
