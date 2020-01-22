@@ -11,7 +11,7 @@ Tabla multiplicar en java
 [FORMULARIO](https://github.com/ecruzq1/Series/tree/master/src/serie)
 
 
-<h1>AUTORES</h1>
+<h1>AUTOR</h1>
 
 * Edwin Cruz
 
